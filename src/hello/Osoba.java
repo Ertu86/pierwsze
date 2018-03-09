@@ -73,6 +73,7 @@ public class Osoba {
 	}
 
 	// bez @Override działa tak samo
+
     public String toString() {
    	 return imie + " " + nazwisko + " " + getWiek() + " lat";
     }
